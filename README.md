@@ -10,7 +10,7 @@ This project utilizes several publicly accessible datasets, all of which are sto
 | --------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | PTSD                  | [Human Stress Prediction](https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction)                     |
 | PTSD                  | [aya_ptsd](https://www.kaggle.com/datasets/abdelrahmanahmed3/aya-ptsd)                                              |
-| Other Disorders       | [COMSYS-T1](https://www.kaggle.com/datasets/kajimi/comsys2023)                                                      |
+| Other Disorders       | [Text Classification](https://www.kaggle.com/datasets/comsys/text-classification/data)                                                      |
 | Healthy               | [Depression: Reddit Dataset (Cleaned)](https://www.kaggle.com/datasets/infamouscoder/depression-reddit-cleaned)     |
 
 We sincerely appreciate the efforts of all authors and organisations who provided these datasets.
