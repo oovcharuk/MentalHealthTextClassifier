@@ -1,0 +1,31 @@
+{
+  "summary_csv": "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\fourfold_summary_metrics.csv",
+  "fold_metrics_csv": "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\fourfold_fold_metrics.csv",
+  "all_oof_scores_csv": "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\fourfold_all_oof_scores.csv",
+  "loss_history_csv": "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\fourfold_loss_history.csv",
+  "notebook": "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\notebooks\\Ovcharuk_IEEE_Access_4fold_composite_loss_executed.ipynb",
+  "figures_300dpi": [
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\roc_300dpi\\roc_4fold_anger_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\roc_300dpi\\roc_4fold_anxiety_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\roc_300dpi\\roc_4fold_depression_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\roc_300dpi\\roc_4fold_npd_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\roc_300dpi\\roc_4fold_panic_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\loss_300dpi\\loss_4fold_anger_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\loss_300dpi\\loss_4fold_anxiety_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\loss_300dpi\\loss_4fold_depression_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\loss_300dpi\\loss_4fold_npd_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\loss_300dpi\\loss_4fold_panic_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\summary_300dpi\\fourfold_oof_f1_bootstrap_ci_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\summary_300dpi\\fourfold_foldmean_vs_oof_f1_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\summary_300dpi\\fourfold_oof_auc_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\summary_300dpi\\confusion_4fold_oof_anger_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\summary_300dpi\\confusion_4fold_oof_anxiety_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\summary_300dpi\\confusion_4fold_oof_depression_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\summary_300dpi\\confusion_4fold_oof_npd_300dpi.png",
+    "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\fourfold_composite_outputs\\summary_300dpi\\confusion_4fold_oof_panic_300dpi.png"
+  ],
+  "run_log": "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\4FoldCorrectedExperiments\\run_4fold_composite_gpu.log",
+  "run_err": "F:\\Dissertation\\RandomWork\\MentalHealthTextClassifier\\4FoldCorrectedExperiments\\run_4fold_composite_gpu.err.log",
+  "loss": "CE + focal(alpha=0.25,gamma=2.0) + dice, weights 1/1/1",
+  "cv": "StratifiedKFold(n_splits=4), inner validation split 0.20 from train_val for tau selection"
+}
